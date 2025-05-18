@@ -22,6 +22,7 @@
 
     function suma(int $primerNumero, int $segundoNumero): int
     {
+        echo "Comentario de prueba para Git";
         return $primerNumero + $segundoNumero;
     }
 
